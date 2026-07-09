@@ -1,21 +1,89 @@
-# Inquiry Compass
+# Inquiry Compass（探求コンパス）
 
-An AI-powered inquiry platform that helps people discover meaningful questions, deepen self-understanding, understand others, and identify what they want to improve.
+> より良い問いを見つけ、自己理解・他者理解・探求対象への理解を深めるための探求支援プラットフォーム。
 
-## Vision
+---
 
-Help people discover what they truly want to improve.
+## 概要
 
-## Current Status
+Inquiry Compass は、人に答えを与えるサービスではありません。
 
-🚧 MVP Development
+対話・問い・実践を通して、
 
-## Architecture
+**「自分は何を良くしたいのか」**
 
-Google Sheets
-Google Apps Script
-GPT
+を見つけることを支援するAIプラットフォームです。
 
-## License
+また、本人の同意のもとで探求プロセスを匿名で知識化し、未来の探求者へ還元することを目指します。
 
-TBD
+---
+
+## コンセプト
+
+探求コンパスは
+
+**「答え」ではなく「探求」を支援する。**
+
+AIは先生ではなく、
+
+**伴走者・構造化者・橋渡し役**
+
+としてユーザーを支援します。
+
+---
+
+## MVP
+
+現在開発中
+
+### Phase1
+
+- Google Sheets
+- Google Apps Script
+- ChatGPT
+- Google Forms（必要に応じて）
+
+---
+
+## 開発ロードマップ
+
+### Sprint 1
+
+- [ ] Google Sheets 初期化
+- [ ] Apps Script 基盤
+- [ ] データ構造
+
+### Sprint 2
+
+- [ ] Node管理
+- [ ] Edge管理
+
+### Sprint 3
+
+- [ ] GPT連携
+
+### Sprint 4
+
+- [ ] レポート生成
+
+---
+
+## リポジトリ構成
+
+```
+docs/
+gas/
+prompts/
+```
+
+---
+
+## ライセンス
+
+現在検討中
+
+---
+
+## 作者
+
+Project Owner: Junya Matsuda
