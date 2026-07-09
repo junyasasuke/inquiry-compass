@@ -84,6 +84,21 @@ prompts/
 
 ---
 
+## Development Policy
+
+### MVP First
+
+This project follows an MVP-first approach.
+
+During MVP development:
+
+- Prioritize completing the core product.
+- Do not add new features unless essential.
+- Record ideas and improvements as GitHub Issues.
+- Revisit improvements after MVP completion.
+
+Our goal is to validate the core concept before expanding the product.
+
 ## 作者
 
 Project Owner: Junya Matsuda
